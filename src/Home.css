@@ -1,0 +1,21 @@
+/* Home.css */
+
+.card {
+  margin: 20px;
+  height: 110%;
+  margin-bottom: 20px; /* Add margin-bottom to create space between rows */
+}
+
+.card-img-top {
+  object-fit: cover; /* Maintain aspect ratio of images */
+  height: 200px; /* Set the height of images */
+}
+
+.custom-card {
+  background-color: #ced2d5; /* Different color for the card */
+  transition: background-color 0.3s ease-in-out; /* Smooth transition effect */
+}
+
+.custom-card:hover {
+  background-color: #efe9e9; /* Change color when hovered */
+}

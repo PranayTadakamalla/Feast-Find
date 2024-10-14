@@ -1,0 +1,38 @@
+/* Home.css */
+
+.container {
+    padding-top: 20px; /* Add padding to the top of the container */
+  }
+  
+  .about-section {
+    margin-bottom: 50px; /* Add margin to the bottom of the about section */
+  }
+  
+  .custom-card {
+    margin-bottom: 30px; /* Add margin to the bottom of each card */
+  }
+  
+  .card-img-top {
+    height: 200px; /* Set the height of the card images */
+    object-fit: cover; /* Maintain aspect ratio of images */
+  }
+  
+  .card-title {
+    font-size: 1.2rem; /* Increase font size of card titles */
+    margin-bottom: 10px; /* Add margin to the bottom of card titles */
+  }
+  
+  .card-text {
+    margin-bottom: 15px; /* Add margin to the bottom of card text */
+  }
+  
+  .btn-primary {
+    width: 100%; /* Make buttons full width */
+  }
+  
+  @media (max-width: 768px) {
+    .card {
+      max-width: calc(100% - 30px); /* Adjust card width for smaller screens */
+    }
+  }
+  
