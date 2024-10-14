@@ -1,6 +1,3 @@
-Here's a concise README file for your **FeastFind** React project:
-
-```markdown
 # FeastFind
 
 FeastFind is a simple React.js project that showcases a few restaurants along with their images and reviews. This application allows users to explore restaurant details in an easy-to-navigate interface.
@@ -55,7 +52,11 @@ The application will launch in your default web browser at `http://localhost:300
 ## Created by
 
 Tadakamalla Sai Pranay  
+
+
 GitHub: [PranayTadakamalla](https://github.com/PranayTadakamalla)  
+
+
 LinkedIn: [Sai Pranay Tadakamalla](https://in.linkedin.com/in/sai-pranay-tadakamalla-7570bb1a6)
 ```
 
