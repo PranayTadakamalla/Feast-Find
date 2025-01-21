@@ -54,7 +54,9 @@ The application will launch in your default web browser at `http://localhost:300
 Tadakamalla Sai Pranay  
 
 
-GitHub: [PranayTadakamalla](https://github.com/PranayTadakamalla)  
+GitHub: [PranayTadakamalla](https://github.com/PranayTadakamalla)
+
+GitHub: [SurisettyMaruthiRamPrakash06](https://github.com/SurisettyMaruthiRamPrakash06)
 
 
 LinkedIn: [Sai Pranay Tadakamalla](https://in.linkedin.com/in/sai-pranay-tadakamalla-7570bb1a6)
